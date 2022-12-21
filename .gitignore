@@ -1,0 +1,16 @@
+.vscode/rad.json
+.vscode/.alstudio
+.alpackages
+.altemplates
+.alcache
+.vscode/rad.json
+.vscode/.alstudio
+.alpackages
+.altemplates
+.alcache
+*.app
+.config
+*.xlf
+*.dll
+*.exe
+.netpackages/*.dll
